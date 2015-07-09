@@ -11,7 +11,15 @@ used by Mozilla's [Rust language](http://www.rust-lang.org/),
  * Full-featured event loop backed by epoll, kqueue, IOCP, event ports.
 
  * Asynchronous TCP and UDP sockets
+ * Full-featured event loop backed by epoll, kqueue, IOCP, event ports.
 
+ * Asynchronous TCP and UDP sockets
+ *  * Full-featured event loop backed by epoll, kqueue, IOCP, event ports.
+
+ * Asynchronous TCP and UDP sockets
+ *  * Full-featured event loop backed by epoll, kqueue, IOCP, event ports.
+
+ * Asynchronous TCP and UDP sockets
  * Asynchronous DNS resolution
 
  * Asynchronous file and file system operations
